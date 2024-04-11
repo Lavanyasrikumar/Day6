@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(12, 12, 11);
+}
+.nav .name_logo{
+    width: 100px;
+}
+.nav .nav_avatar{
+    width: 100%; 
+    height: 400px; 
+}
+.banner .banner_contents .banner_title{
+    font: bold;
+    text-align: center;
+    color:white;
+}
+.banner .banner_contents .banner_buttons .banner_button1{
+    background-color: rgb(243, 232, 232);
+    font: bold;
+}
+.banner .banner_contents .banner_buttons .banner_button2{
+    background-color: gray;
+    font: bold;
+}
+.banner .banner_contents .banner_description{
+    color: aliceblue;
+}
+.banner .banner_fate{
+    background-color: rgb(252, 248, 248);
+}
+.row{
+    color: aliceblue;
+}
+.row .row_posters{
+    background-color: black;
+}
+.row .row_posters .row-poster{
+    padding: 10px;
+    
+}
